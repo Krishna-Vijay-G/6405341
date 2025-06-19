@@ -1,8 +1,8 @@
 # Superset ID: 6405341
 Weekly Assessment for Cognizant 2025
 
-Cognizant-Digital-Nurture-4.0-JavaFSE-Handson-2025
-This contains the Solution Codes for the hands-on exercises in Cognizant Digital Nurture 4.0 Java FSE program (2025).
+Cognizant-Digital-Nurture-4.0-DotNetFSE-Handson-2025
+This contains the Solution Codes for the hands-on exercises in Cognizant Digital Nurture 4.0 DotNet FSE program (2025).
 
 **Week 1**
 
