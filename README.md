@@ -26,6 +26,26 @@ This contains the Solution Codes for the hands-on exercises in Cognizant Digital
 
 ---
 
+## 📚 Week 2
+
+### 🔹 Advanced SQL
+
+- **1**: SQL Exercise - Advanced concepts  
+  **Exercise**: 1 - Ranking and Window Functions
+
+- **2**: SQL Exercise - Stored procedure  
+  **Exercise**: 1 - Create a Stored Procedure
+
+- **3**: SQL Exercise - Stored procedure  
+  **Exercise**: 5 - Return Data from a Stored Procedure
+
+### 🔹 NUnit and Moq
+
+- **1**: Moq-Handson  
+  **Exercise**: Write Testable Code with Moq
+
+---
+
 ## ⚙️ How to Run the Programs
 
 Follow these steps to run each exercise using the .NET CLI:
